@@ -71,6 +71,10 @@ tambahkan kode berikut.
 
 ![Screenshot (239)](https://github.com/amandaaaapn/Lab2Web/assets/115678845/9ce429bf-6ed7-405e-b66f-87efb4de357d)
 
+13. Kemudian lakukan validasi dokumen CSS dengan cara mengakses https://jigsaw.w3.org/css-validator/ seperti gambar berikut
+
+![Screenshot (227)](https://github.com/amandaaaapn/Lab2Web/assets/115678845/08ffe9d2-2fa1-453f-94f1-53d751ca21c3)
+
 Pertanyaan
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
