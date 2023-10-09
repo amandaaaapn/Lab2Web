@@ -76,7 +76,13 @@ Pertanyaan
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
    jawab :
-   
+![Screenshot (241)](https://github.com/amandaaaapn/Lab2Web/assets/115678845/e299ddd4-a0a3-4664-895a-26336ce66a8b)
+![Screenshot (242)](https://github.com/amandaaaapn/Lab2Web/assets/115678845/9e420772-66c8-467c-af76-c27ed7c0f422)
+
+   ![Screenshot (243)](https://github.com/amandaaaapn/Lab2Web/assets/115678845/c23eba50-c430-4044-999c-5f2431d113f3)
+
+    Pada contoh ini, terdapat elemen `<h2> dengan class "title"` dan elemen `<p> dengan class "text"`. Class tersebut akan digunakan sebagai selector dalam CSS untuk mengubah properti dan nilai. Dalam file CSS (style.css), terdapat aturan CSS yang dideklarasikan untuk class `"title" dan "text"`. Aturan tersebut mengubah properti `"color"` pada elemen dengan class tersebut. Anda dapat mengubah nilai properti `"color"` pada file CSS sesuai keinginan Anda untuk melihat perubahan yang terjadi pada judul `(h2) dan paragraf (p)` dalam hal warna teks.
+
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
 penjelasannya!
 
@@ -105,5 +111,12 @@ penjelasan dan contohnya!
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
 Berikan penjelasan dan contohnya!      (    < p id="paragraf-1" class="text-paragraf" >    )
+
+![Screenshot (244)](https://github.com/amandaaaapn/Lab2Web/assets/115678845/277d7562-eccd-4e31-b6a5-ebeafc92b657)
+
+
+![Screenshot (245)](https://github.com/amandaaaapn/Lab2Web/assets/115678845/967367e6-44e5-4cef-b71d-7008595c99a9)
+
+Yang terpanggil di browser adalah ID karena ID bersifat unik berbeda dengan Class. Class bisa digunakan banyak sementara ID hanya tertentu saja itu kenapa ID unik dan yang terpanggil di browser adalah ID.
 
 # SEKIAN, TERIMA KASIH
